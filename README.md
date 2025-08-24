@@ -2,7 +2,7 @@
 
 # 🌌 Solar System N-Body Simulation
 
-![Header Image](assets/solar_system_banner.png)
+![Header Image](<img width="1536" height="1024" alt="ChatGPT Image Aug 24, 2025, 10_29_57 PM" src="https://github.com/user-attachments/assets/5b224246-098e-4487-9470-12eb42a7a597" />)
 
 A comprehensive solar system simulation implementing Newtonian gravity with optional post-Newtonian relativistic corrections. Features real-time 3D visualization, orbital mechanics calculations, and energy/momentum conservation monitoring.  
 
@@ -281,6 +281,9 @@ Open a Pull Request 🎉
 - Wisdom, J. & Holman, M. (1991). Symplectic maps for the n-body problem. *Astronomical Journal*, 102, 1528-1538.
 - Will, C. M. (2014). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
 - Murray, C. D. & Dermott, S. F. (1999). *Solar System Dynamics*. Cambridge University Press.
+
+  ![1](https://github.com/user-attachments/assets/0312a5ee-6de7-43dd-b019-edfec43ac0a0)
+
 
 ## License
 
