@@ -33,7 +33,7 @@ A comprehensive solar system simulation implementing Newtonian gravity with opti
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Accurate Physics**: Implements Newtonian gravity with velocity-Verlet integration  
 - **Relativistic Corrections**: Optional 1PN (post-Newtonian) corrections for Mercury's perihelion precession  
@@ -49,7 +49,7 @@ A comprehensive solar system simulation implementing Newtonian gravity with opti
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 solar_sim/
@@ -75,7 +75,7 @@ solar_sim/
 │   └── solar_params.json # Planetary parameters
 ```
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.7+  
