@@ -11,25 +11,25 @@ A comprehensive solar system simulation implementing Newtonian gravity with opti
 ---
 
 ## 📑 Table of Contents
-- [Features](##features)
-- [Project Structure](##project-structure)
-- [Installation](##installation)
-- [Usage](##usage)
-  - [Basic Usage](###basic-usage)
-  - [Interactive Controls](###interactive-controls)
-  - [Configuration](###configuration)
-- [Physics Implementation](##physics-implementation)
-  - [Units](###units)
-  - [Integration Method](###integration-method)
-  - [Relativistic Corrections](###relativistic-corrections)
-- [Testing](##testing)
-- [Performance](##performance)
-- [Accuracy](##accuracy)
-- [Customization](##customization)
-- [Known Limitations](##known-limitations)
-- [Future Enhancements](##future-enhancements)
-- [References](##references)
-- [License](##license)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Basic Usage](#basic-usage)
+  - [Interactive Controls](#interactive-controls)
+  - [Configuration](#configuration)
+- [Physics Implementation](#physics-implementation)
+  - [Units](#units)
+  - [Integration Method](#integration-method)
+  - [Relativistic Corrections](#relativistic-corrections)
+- [Testing](#testing)
+- [Performance](#performance)
+- [Accuracy](#accuracy)
+- [Customization](#customization)
+- [Known Limitations](#known-limitations)
+- [Future Enhancements](#future-enhancements)
+- [References](#references)
+- [License](#license)
 
 ---
 
@@ -285,4 +285,3 @@ Open a Pull Request 🎉
 ## License
 
 This project is provided as-is for educational and research purposes.
-
