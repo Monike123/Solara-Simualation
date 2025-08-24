@@ -28,6 +28,7 @@ A comprehensive solar system simulation implementing Newtonian gravity with opti
 - [Known Limitations](#known-limitations)
 - [Future Enhancements](#future-enhancements)
 - [References](#references)
+- [Insipiration](#Inspiration)
 - [License](#license)
 
 ---
@@ -283,8 +284,12 @@ Open a Pull Request 🎉
 
   <img width="2048" height="2048" alt="2 (2)" src="https://github.com/user-attachments/assets/f6d861a6-0077-461a-978e-3f7a36016d0e" />
 
+# Inspiration
+This project was sparked by a LinkedIn post that truly enlightened me:t
+[Dhrubajyoti Hazarika post](https://www.linkedin.com/posts/dhrubajyoti-hazarika-81399827a_python-vpython-physicssimulation-activity-7360189198894583808-zhm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETtGPUBZWh25LRWFLfoX34pwgd69MD76Yw)
 
-
+Additionally, I owe a lot to a brilliant YouTuber whose video helped me understand how to integrate physics and mathematics into code. My prior knowledge of both Python and C allowed me to absorb his explanations more effectively and apply them to my project:
+[Kavan's YT video](https://www.youtube.com/watch?v=_YbGWoUaZg0)
 
 ## License
 
