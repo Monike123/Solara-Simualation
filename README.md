@@ -2,7 +2,8 @@
 
 # 🌌 Solar System N-Body Simulation
 
-(https://github.com/Monike123/Solara-Simualation/blob/main/2%20(2).png](https://github.com/Monike123/Solara-Simualation/blob/main/3.png)
+<img width="1536" height="1024" alt="3" src="https://github.com/user-attachments/assets/d1ec08a5-64e6-490f-a1f4-9959990f5932" />
+
 
 A comprehensive solar system simulation implementing Newtonian gravity with optional post-Newtonian relativistic corrections. Features real-time 3D visualization, orbital mechanics calculations, and energy/momentum conservation monitoring.  
 
@@ -282,7 +283,8 @@ Open a Pull Request 🎉
 - Will, C. M. (2014). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
 - Murray, C. D. & Dermott, S. F. (1999). *Solar System Dynamics*. Cambridge University Press.
 
-  ![1](https://github.com/user-attachments/assets/0312a5ee-6de7-43dd-b019-edfec43ac0a0)
+  ![1](https://github.com/user-attachments/assets/396159e1-58d4-445d-b970-b4525b0bd835)
+
 
 
 ## License
