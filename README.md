@@ -283,7 +283,8 @@ Open a Pull Request 🎉
 - Will, C. M. (2014). *Theory and Experiment in Gravitational Physics*. Cambridge University Press.
 - Murray, C. D. & Dermott, S. F. (1999). *Solar System Dynamics*. Cambridge University Press.
 
-  ![1](https://github.com/user-attachments/assets/396159e1-58d4-445d-b970-b4525b0bd835)
+  <img width="2048" height="2048" alt="2 (2)" src="https://github.com/user-attachments/assets/f6d861a6-0077-461a-978e-3f7a36016d0e" />
+
 
 
 
