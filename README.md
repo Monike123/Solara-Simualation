@@ -289,3 +289,4 @@ Open a Pull Request 🎉
 ## License
 
 This project is provided as-is for educational and research purposes.
+[Licence]([url](https://github.com/Monike123/Solara-Simualation/blob/main/LICENSE))
