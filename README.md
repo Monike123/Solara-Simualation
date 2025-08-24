@@ -2,7 +2,7 @@
 
 # 🌌 Solar System N-Body Simulation
 
-![Header Image](<img width="1536" height="1024" alt="ChatGPT Image Aug 24, 2025, 10_29_57 PM" src="https://github.com/user-attachments/assets/5b224246-098e-4487-9470-12eb42a7a597" />)
+![Header Image]([<img width="1536" height="1024" alt="ChatGPT Image Aug 24, 2025, 10_29_57 PM" src="https://github.com/user-attachments/assets/5b224246-098e-4487-9470-12eb42a7a597" />](https://github.com/Monike123/Solara-Simualation/blob/main/2%20(2).png](https://github.com/Monike123/Solara-Simualation/blob/main/3.png))
 
 A comprehensive solar system simulation implementing Newtonian gravity with optional post-Newtonian relativistic corrections. Features real-time 3D visualization, orbital mechanics calculations, and energy/momentum conservation monitoring.  
 
