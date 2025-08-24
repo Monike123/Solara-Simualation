@@ -6,7 +6,7 @@
 
 A comprehensive solar system simulation implementing Newtonian gravity with optional post-Newtonian relativistic corrections. Features real-time 3D visualization, orbital mechanics calculations, and energy/momentum conservation monitoring.  
 
-📄 [Read Documentation (PDF)](docs/simulation_docs.pdf) | 📝 [Read Documentation (Word)](docs/simulation_docs.docx)
+📄 [Read Documentation (PDF)](docs/simulation_docs.pdf) | 📝 [Read Documentation (Word)]([docs/simulation_docs.docx](https://github.com/Monike123/Solara-Simualation/blob/main/Solar_System_Simulation_Project_Enriched.docx))
 
 ---
 
