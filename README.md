@@ -17,6 +17,7 @@ A comprehensive solar system simulation implementing Newtonian gravity with opti
   - [Basic Usage](#basic-usage)
   - [Interactive Controls](#interactive-controls)
   - [Configuration](#configuration)
+  - [Visual Representatio](#Visual-Representation)
 - [Physics Implementation](#physics-implementation)
   - [Units](#units)
   - [Integration Method](#integration-method)
@@ -125,6 +126,8 @@ Run headless (no visualization) for performance testing:
 ```bash
 python main.py --headless --steps 1000
 ```
+### Visual Representation
+[Linked In :](https://www.linkedin.com/posts/manas-sawant-7b1332283_physics-simulation-mathematics-activity-7365442275276918784-MVv_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETtGPUBZWh25LRWFLfoX34pwgd69MD76Yw) 
 
 ## Interactive Controls
 
